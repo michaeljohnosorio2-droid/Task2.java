@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Task4 {
-    public static void main(String[] args) {
+    public static void main() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a string: ");
